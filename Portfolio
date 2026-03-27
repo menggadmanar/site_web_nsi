@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+    </header>
+    <section>
+        <h2>À propos de moi</h2>
+        <p>Je m'appelle Manar Menggad et je suis étudiante en terminale NSI. Passionnée par le développement informatique et les jeux vidéo.</p>
+        <img src="https://via.placeholder.com/200" alt="Image illustrative">
+        <p>Mes passions : Jeux vidéo, Animé, Lecture, Théâtre et Chorale</p>
+    </section>
+    <footer>
+        <p>Contact : menggad.manar@gmail.com</p>
+    </footer>
+</body>
+</html>
